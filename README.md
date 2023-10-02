@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @ASKiere
-- 👀 I’m interested in making websites, webapps, application, and games.
-- 🌱 I’m currently learning Rust, JavaScript, and Lua.
+## who are youk??
+i am myslef<br/>yeah
 
-
-<!---
-ASKiere/ASKiere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## what do you do???
+make dumb projects becausei cannot be hired under child labor laws
+ <!--- 10.103.41.99 -->
